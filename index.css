@@ -1,0 +1,50 @@
+
+
+body {
+    background-color: #1a1919; 
+    font-family: 'Helvetica Neue', sans-serif; 
+}
+
+
+
+.hero_section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80vh; 
+    color: white;
+    padding: 0 110px; 
+}
+
+.hero-text {
+    max-width: 600px; 
+}
+
+.hero_section h1 {
+    font-size: 3em; 
+}
+
+.hero_section p {
+    font-size: 1.5em; 
+}
+
+
+.container {
+    margin-top: 40px;
+    background-color: rgb(122, 122, 122); 
+    padding: 20px;
+    border-radius: 10px; 
+}
+
+h2 {
+    color: #000000; 
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
